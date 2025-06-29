@@ -83,11 +83,3 @@ Edit
 - ggplot2 for visuals
 - **[Tableau]** (optional interactive dashboard)
 
----
-
-## 🚀 Quick Start
-
-```bash
-git clone https://github.com/tonybardo/happy-life-expectancy
-cd happy-life-expectancy
-Rscript analysis/compare_expectancy.R
